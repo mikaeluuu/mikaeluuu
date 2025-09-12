@@ -1,6 +1,6 @@
 ## Hello World! I'm Mikael Darmawan👋
 
-![Mikaeluuu](img/MIKAELUUU.png)
+![Mikaeluuu](img/github-header-banner.png)
 
 <!--
 **mikaeluuu/mikaeluuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
