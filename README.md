@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mikaeluuu's Analyst
 - 🌱 I’m currently learning Data Analyst, Data Engineer
 - 😁😁😁😁👌
+- 💬 Ask me about Everything of my life because of you 💕
 
 ![Happy Birthday](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWlveGxscTF1NXR3Zzk5d2Z4YXNmbjlyd3lra3Y2ODhvNncxb3g2ayZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/6WFScxN6fi95z3YVQD/giphy.gif)
